@@ -27,3 +27,4 @@ The API can then be tested by visiting "http://127.0.0.1:8000/docs" in both case
 NOTE: As this is just a barebone implementation, nothing will be displayed on "http://127.0.0.1:8000". Go to "http://127.0.0.1:8000/docs" to test the '/predict' endpoint. When prompted with username and password, use 'user' and 'pass' respectively.
 We provide a sample image but any other images from FashionMNNIST dataset can also be used.
 
+Please look at "report.pdf" for more technical details.
