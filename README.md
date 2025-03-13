@@ -11,6 +11,7 @@ cd FashionMnist-Classifier
 https://drive.google.com/file/d/1-1xR16R0LWE5a65bq-9QsSq_5iqA3Fuh/view?usp=sharing
 ```
 To train a new model instead, refer to jupyter notebook "model.ipynb"
+
 3.1) To use the FASTAPI, run following commands in the local project folder
 ```bash
 pip install -r requirements.txt
